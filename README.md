@@ -1,2 +1,2 @@
-# memocard
-Best program for прокачки памяти
+# space_invadors
+Best program for shooting in spaceships
